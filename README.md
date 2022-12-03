@@ -80,7 +80,7 @@ of your storage device.
 
 Where you place your bootstrap volume also may highly depend on a number you can easily memorize: the start sector.
 
-Once you chose the location (say, 20480) and a long enough passphrase for `cryptsetup`,
+Once you have chosen the location (say, 20480) and a long enough passphrase for `cryptsetup`,
 let's create and mount the bootstrap volume. 256K is more than enough for simple case, and it's easy to memorize too:
 
 ```
