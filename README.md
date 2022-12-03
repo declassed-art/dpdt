@@ -1,7 +1,7 @@
 # Declassed Plausible Deniabity Toolkit
 
 This toolkit provides a little code to ease deploying and bootstrapping a hidden system
-without obvious encryption, either LUKS, or Thomb, or anything else that would leave traces.
+without obvious encryption, as it happens with LUKS, or Thomb, or anything else that leaves traces.
 The idea is to use unallocated space in a file system or unpartitioned space.
 A similar tool could be recently emerged Shufflecake, but that's a third party kernel
 module that increases pros of rubber-hose cryptanalysis.
