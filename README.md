@@ -8,7 +8,9 @@ module that increases pros of rubber-hose cryptanalysis.
 
 This toolkit does not use anything non-standard. For example, Linux Mint provides everything
 out of the box. For Debian you may need to install cryptsetup, though.
-The drawback is the need to memorize a sequence of bootstrapping commands and long enough passphrase.
+The drawback of the approach being described is the need to memorize a sequence of bootstrapping commands
+and long enough passphrase. However, you can use a tiny device, safely hidden,
+that would bootstrap your system or even the entire infrastructure. Up to you.
 
 Although this toolkit is quite mature, being used in production for almost six years,
 I haven't heard it was a subject of rubber-hose cryptanalysis.
